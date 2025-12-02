@@ -1,6 +1,6 @@
 # tanstack-sst-redirect
 
-Reproduction of https://github.com/sst/sst/issues/6251.
+Reproduction of https://github.com/sst/sst/issues/6251, https://github.com/TanStack/router/issues/6008.
 
 ```sh
 pnpm install
